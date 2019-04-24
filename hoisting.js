@@ -17,5 +17,6 @@ callMe(lyric);
 crazy();
 
 function sayMyName() {
+  name = "Kristin";
     console.log(name);
 }
