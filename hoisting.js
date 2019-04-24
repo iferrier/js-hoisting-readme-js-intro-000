@@ -14,7 +14,7 @@ function callMe(lyric) {
 }
 callMe(lyric);
 
-thisIsCrazy();
+thisIsCrazy(crazy);
 
 function sayMyName() {
     console.log(name);
