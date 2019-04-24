@@ -13,7 +13,7 @@ function callMe(lyric) {
 }
 callMe(lyric);
 
-crazy());
+crazy();
 
 function sayMyName() {
     console.log(name);
