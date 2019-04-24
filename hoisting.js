@@ -1,4 +1,4 @@
-var lyric, name, crazy;
+var lyric, name;
 function crazy()) {
   console.log("hey!!!");
 }
