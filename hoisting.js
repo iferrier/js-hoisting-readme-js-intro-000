@@ -1,6 +1,4 @@
 var lyric, name, crazy;
-thisIsCrazy();
-var crazy = "hey!!!";
 
 function callMe(lyric) {
   lyric = "maybe";
@@ -13,8 +11,10 @@ function callMe(lyric) {
 callMe(lyric);
 
 function thisIsCrazy(crazy) {
+  var crazy = "hey!!!";
   console.log(crazy);
 }
+thisIsCrazy();
 
 function sayMyName() {
     console.log(name);
