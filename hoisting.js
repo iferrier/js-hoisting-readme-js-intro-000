@@ -1,5 +1,6 @@
-var lyric, name;
-function crazy()) {
+var lyric, name
+
+function crazy() {
   console.log("hey!!!");
 }
 
